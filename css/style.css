@@ -6,10 +6,10 @@ body {
 font-family: 'Open Sans', sans-serif;
 }
 .bg-profile {
-	background-color: #c7a693;
+	background-color: #000000;
 }
 .cover-profile {
-	color: #856046
+	color: #f25278;
 }
 .cover-profile img.cover-image{
 	z-index: 0;
